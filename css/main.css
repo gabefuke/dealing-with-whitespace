@@ -1,11 +1,9 @@
 html {
   box-sizing: border-box;
   font-family: "Crimson Text", regular;
+  color: #222;
   line-height: 1.3rem;
   font-size: 1.125rem
-
-
-
 }
 
 *, *::before, *::after {
@@ -25,10 +23,11 @@ header > h1 {
 
 h1 ~ p {
   font-style: italic;
+  color: #555;
 }
 
 blockquote {
-  color: #555;
+  color: #999;
   font-size: 1.125rem;
 
 }
