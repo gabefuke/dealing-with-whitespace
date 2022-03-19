@@ -3,7 +3,7 @@ html {
   font-family: "Crimson Text", regular;
   color: #222;
   line-height: 1.3rem;
-  font-size: 1.125rem
+  font-size: 1.125rem;
 }
 
 *, *::before, *::after {
@@ -13,6 +13,7 @@ html {
 body {
   padding-left: 1em;
   padding-right: 1em;
+  margin: 1em;
 }
 
 article {
@@ -21,7 +22,6 @@ article {
 
 article header p:first-child {
   font-weight: normal;
-
 }
 
 article header p {
@@ -32,5 +32,8 @@ article header p {
 blockquote {
   color: #999;
   font-size: 1.125rem;
+}
 
+article ol {
+  padding-left: 1em;
 }
