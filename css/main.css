@@ -13,21 +13,26 @@ html {
 body {
   padding-left: 1em;
   padding-right: 1em;
-  margin: 0.5em;
+  margin: 0.1em;
 }
 
 article p {
+  line-height: 1.3em;
 
 }
 
 article h1 {
   font-weight: normal;
+  padding-bottom: 0.1em;
+  margin-bottom: 0.1em;
 }
 
 article header p {
   font-style: italic;
   color: #555;
   border-bottom: 2px solid #999;
+  padding-top: 0.1em;
+  padding-bottom: 1.7em;
 }
 
 blockquote {
