@@ -16,6 +16,10 @@ body {
   margin: 0.5em;
 }
 
+article p {
+
+}
+
 article h1 {
   font-weight: normal;
 }
@@ -29,6 +33,10 @@ article header p {
 blockquote {
   color: #999;
   font-size: 1.125rem;
+}
+
+.quote {
+
 }
 
 article ol {
