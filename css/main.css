@@ -16,9 +16,13 @@ body {
   margin: 0.1em;
 }
 
+article header {
+  line-height: .001em;
+
+}
+
 article p {
   line-height: 1.3em;
-
 }
 
 article h1 {
@@ -46,6 +50,7 @@ blockquote {
 
 article ol {
   padding-left: 1em;
+  line-height: 1.3em;
 }
 
 article {
