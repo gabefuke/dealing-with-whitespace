@@ -10,7 +10,7 @@ html {
   box-sizing: inherit;
 }
 
-article {
+body {
   padding-left: 1em;
   padding-right: 1em;
 }
@@ -19,13 +19,12 @@ article {
   border: 2px solid #999;
 }
 
-hr
-header:first-child {
+article header p:first-child {
   font-weight: normal;
 
 }
 
-h1 ~ p {
+article header p {
   font-style: italic;
   color: #555;
 }
