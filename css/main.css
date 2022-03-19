@@ -11,13 +11,13 @@ html {
 }
 
 body {
-  padding-left: 1em;
-  padding-right: 1em;
-  margin: 0.1em;
+  padding: 1em;
+  margin: 3px;
 }
 
 article header {
   line-height: .001em;
+  margin-top: 2px
 
 }
 
