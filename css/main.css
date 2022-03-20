@@ -3,7 +3,6 @@ html {
   font-family: "Crimson Text", regular;
   color: #222;
   line-height: 1.3rem;
-  font-size: 1.125rem;
 }
 
 *, *::before, *::after {
@@ -12,18 +11,20 @@ html {
 
 body {
   padding: 1em;
-  margin: 3px;
+  margin: 0px;
 }
 
 article header {
-  line-height: .001em;
-  margin-top: 2px
+  line-height: 0rem;
+  margin: 0;
 
 }
 
 article p {
   line-height: 1.3em;
   font-size: 1rem;
+  margin-bottom: 0rem;
+
 }
 
 article h1 {
@@ -43,11 +44,15 @@ article header p {
 blockquote {
   color: #999;
   font-size: 1.125rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  margin-bottom: 1.3em;
 }
 
 .quote {
   color: #999;
-  font-size: 1.125rem;
+  line-height: 1.3rem;
+  margin-bottom: 1.3em;
 }
 
 article ol {
@@ -57,4 +62,5 @@ article ol {
 
 article {
   border-bottom: 2px solid #999;
+  margin-bottom: 1.3rem;
 }
