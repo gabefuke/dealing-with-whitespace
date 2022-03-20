@@ -10,20 +10,20 @@ html {
 }
 
 body {
-  margin: 0rem;
+  margin: 0;
   padding-left: 1rem;
   padding-right: 1rem;
 }
 
 article header {
-  line-height: 0rem;
+  line-height: 0;
   margin: 0;
 }
 
 article p {
   line-height: 1.3em;
   font-size: 1rem;
-  margin-bottom: 0rem;
+  margin-bottom: 0;
 }
 
 article h1 {
