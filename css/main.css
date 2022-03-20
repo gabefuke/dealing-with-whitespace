@@ -57,6 +57,7 @@ blockquote {
 article ol {
   padding-left: 1em;
   line-height: 1.3em;
+  margin-bottom: 1.3em;
 }
 
 article {
